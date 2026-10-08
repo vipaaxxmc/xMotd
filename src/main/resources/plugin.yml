@@ -1,0 +1,16 @@
+name: xMotd
+version: '${project.version}'
+main: dev.vipaaxx.xmotd.XMotd
+api-version: '1.21'
+author: Vipaaxx
+description: Custom server MOTD with gradient support.
+
+commands:
+  xmotd:
+    description: xMotd main command
+    usage: /xmotd reload
+
+permissions:
+  xmotd.reload:
+    description: Allows reloading the xMotd config
+    default: op

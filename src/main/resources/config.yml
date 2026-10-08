@@ -1,0 +1,14 @@
+# =-==-=-=-=-=-=-=-=
+#
+# xMotd by Vipaaxx
+# Version: 1.0.0
+#
+# Contact me on Spigot to report isues: vipaaxx
+#
+# =-==-=-=-=-=-=-=-=
+
+motd:
+  - "motd line 1 here"
+  - "[gradient=#2249BD,48BEE8]motd line 2 here[/gradient]"
+
+# run /xmotd reload to reload the plugin once you have set this up
